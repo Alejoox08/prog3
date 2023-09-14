@@ -1,0 +1,7 @@
+
+102; Fisica I; 1; 3; L0811
+203; Matematicas I; 1; 4; X0711
+201; Algebra Lineal; 3; 3; M0911
+
+
+    
